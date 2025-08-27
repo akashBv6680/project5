@@ -1,0 +1,6 @@
+selenium
+pandas
+scikit-learn
+streamlit
+nltk
+webdriver-manager
